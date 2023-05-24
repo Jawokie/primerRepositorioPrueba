@@ -17,7 +17,6 @@ public class PruebaParaEntornos {
         // TODO code application logic here
         
         //Esto es un codigo de prueba
-        int n = 0;
         String [] cadena = new String[14]; 
     }
     
